@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @chetannishad
-- 👀 I’m interested in cloud computing 
-- 🌱 I’m currently learning cloud computing 
-- 💞️ I’m looking to collaborate on web server
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm chetanya kumar nishad</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<!---
-chetannishad/chetannishad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **rungta**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
